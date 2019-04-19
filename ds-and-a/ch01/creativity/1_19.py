@@ -1,0 +1,1 @@
+print([chr(value) for value in range(97,123)])

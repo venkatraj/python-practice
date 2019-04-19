@@ -1,0 +1,1 @@
+print(sum([value * value for value in range(5) if value % 2 != 0]))
